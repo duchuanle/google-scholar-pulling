@@ -1,0 +1,9 @@
+apple
+dog
+cat
+book
+english
+literature
+math
+computer
+movies
